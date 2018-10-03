@@ -15,7 +15,7 @@ public class DatabaseBootstrap implements InitializingBean{
 	
 	@Override
 	public void afterPropertiesSet() throws Exception {
-		studentFactory.saveStudents(20);
+		studentFactory.saveStudents(10);
 		
 	}
 
