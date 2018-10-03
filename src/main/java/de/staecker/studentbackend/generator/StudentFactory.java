@@ -1,8 +1,5 @@
 package de.staecker.studentbackend.generator;
 
-import java.util.ArrayList;
-import java.util.List;
-
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
